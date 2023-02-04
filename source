@@ -1,0 +1,11 @@
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
+
+NotifyLib.prompt('injected haunts streamable', 'successfully finished injecting haunts streamable', 2)
+
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
+
+NotifyLib.prompt('Haunts Streamable - Fov is 16 or higher', 'legit config', 5)
+
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
+
+NotifyLib.prompt('join haunts vault discord.gg/hauntsop', 'best free vault <3', 5)
